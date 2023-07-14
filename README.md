@@ -1,4 +1,1 @@
-# peazoDeEscris
-Este script sirve para sacar clips de un video usando FFMPEG
-//////////
-This script is for taking clips out of videos using FFMPEG
+Powershell script to take video clips out of an input video file
